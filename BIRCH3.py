@@ -6,7 +6,7 @@ Created on Mon May  6 20:57:45 2024
 
 Note: 
     The following is the steps and computational core of BIRCH clustering built-in lib in python:
-        * taken from sklearn module 
+        * taken from sklearn module https://atavory.github.io/ibex/_modules/sklearn/cluster/birch.html
         * Computational core (DOI of the paper WILL BE ADDED):
             Processing Data Points:
                 For each data point, the closest centroid is found, and the CF (Clustering Feature) is updated. 
